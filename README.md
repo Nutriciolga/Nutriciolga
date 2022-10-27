@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Olga
+- 👀 I’m interested in writing reliable and maintaiable code 
+- 🛠 I work with Python, JS, and TS
